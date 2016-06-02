@@ -1,3 +1,3 @@
 # Desarrollo de aplicaciones web
 
-##Asignatura de la carrera de técnico superior universitario en tecnologías de la información.
+##Asignatura de la carrera técnico superior universitario en tecnologías de la información.
